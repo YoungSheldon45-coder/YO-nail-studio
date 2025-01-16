@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/YO-nail-studio/static/css/main.e6c13ad2.css",
-    "main.js": "/YO-nail-studio/static/js/main.9daf7461.js",
+    "main.js": "/YO-nail-studio/static/js/main.f181c2a9.js",
     "static/media/background.jpg": "/YO-nail-studio/static/media/background.e0259aeb92522dc27aab.jpg",
     "static/media/Owner.jpeg": "/YO-nail-studio/static/media/Owner.d711f62d19ea19593257.jpeg",
     "static/media/product9.jpg": "/YO-nail-studio/static/media/product9.9ba933562b10d9d1e092.jpg",
@@ -19,10 +19,10 @@
     "static/media/Escasso2.jpg": "/YO-nail-studio/static/media/Escasso2.bf93d5942677bea35367.jpg",
     "index.html": "/YO-nail-studio/index.html",
     "main.e6c13ad2.css.map": "/YO-nail-studio/static/css/main.e6c13ad2.css.map",
-    "main.9daf7461.js.map": "/YO-nail-studio/static/js/main.9daf7461.js.map"
+    "main.f181c2a9.js.map": "/YO-nail-studio/static/js/main.f181c2a9.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.9daf7461.js"
+    "static/js/main.f181c2a9.js"
   ]
 }
